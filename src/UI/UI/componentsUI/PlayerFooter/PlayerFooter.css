@@ -1,0 +1,43 @@
+.player__nav{
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+
+.player__nav-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+.repeat__btn {
+    margin-bottom: 25px;
+}
+
+.arrow__prev, .arrow__next {
+    background: #F7F7F9;
+    border-radius: 20px;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5)
+}
+
+.player__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.pause__img {
+    width: 80px;
+    height: 80px;
+}
+
+
+

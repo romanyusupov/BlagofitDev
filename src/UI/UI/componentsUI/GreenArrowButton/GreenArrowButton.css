@@ -1,0 +1,13 @@
+.exercise__reg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #000000;
+    font-size: 18px;
+}
+
+.exercise__reg-img {
+    margin-top: 5px;
+    transform: rotateY(160deg) rotateX(0deg) rotate(319deg);
+}

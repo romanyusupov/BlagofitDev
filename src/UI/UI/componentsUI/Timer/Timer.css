@@ -1,0 +1,26 @@
+.timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    border: 1px dashed black;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.timer__wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.timer__result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,56 @@
+.nav__box {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: 25px;
+}
+
+.nav__box-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav__box-arrow {
+    height: 35px;
+    width: 35px;
+}
+
+.nav__box-btn {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    background: #4467E3;
+    width: 80px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.nav__box-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background: #4467E3;
+    border-radius: 15px;
+    font-size: 24px;
+}
+
+.right {
+    transform: rotate(180deg);
+}
+
+.nav__warning{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+    color: red;
+    font-size: 14px;
+}
